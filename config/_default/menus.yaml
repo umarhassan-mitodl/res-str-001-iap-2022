@@ -1,0 +1,13 @@
+leftnav:
+- identifier: d70535ce-04a1-4b12-897f-cf6f3c3a5752
+  name: GIS Level 1 Workshop
+  pageRef: /pages/gis-level-1
+  weight: 10
+- identifier: 9eb1f8a3-9cfa-4e7e-bd6e-c70195be1bbe
+  name: GIS Level 2 Workshop
+  pageRef: /pages/gis-level-2
+  weight: 20
+- identifier: dbc13dbd-b4f9-41c2-bb10-497508a67580
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
