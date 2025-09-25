@@ -1,0 +1,44 @@
+{
+  "term": "January IAP",
+  "year": "2022",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Geography"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e2ea1694-9976-d7b8-7686-38b299860a05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f0b5c741-4cbb-44a1-b65f-1be580e02f6d",
+    "website": "resstr-001-geographic-information-system-gis-tutorial"
+  },
+  "course_title": "Geographic Information System (GIS) Tutorial",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.STR-001",
+  "course_image_thumbnail": {
+    "content": "4aa27026-22c3-42cd-816a-15a6cd9f169c",
+    "website": "resstr-001-geographic-information-system-gis-tutorial"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Lecture Notes",
+    "Instructor Insights",
+    "Editable Files"
+  ],
+  "site_uid": "80865953-144b-4d0f-8ff3-8ebcb2e8a29e",
+  "site_short_id": "res-str-001-iap-2022",
+  "site_url_path": "courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022"
+}
