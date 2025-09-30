@@ -22,7 +22,7 @@
     "website": "resstr-001-geographic-information-system-gis-tutorial"
   },
   "course_title": "Geographic Information System (GIS) Tutorial",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.",
   "department_numbers": [],
@@ -32,6 +32,7 @@
     "content": "4aa27026-22c3-42cd-816a-15a6cd9f169c",
     "website": "resstr-001-geographic-information-system-gis-tutorial"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Activity Assignments",
     "Lecture Notes",
