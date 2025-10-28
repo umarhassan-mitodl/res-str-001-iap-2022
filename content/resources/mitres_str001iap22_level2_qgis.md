@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_level2_qgis.pdf
 file_size: 99419
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

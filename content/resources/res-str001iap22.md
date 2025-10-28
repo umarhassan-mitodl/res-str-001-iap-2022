@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/res-str001iap22.png
 file_size: 89219
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Students learn to use two programs to generate maps. (Courtesy of U.S.
     Energy Information Administration. Image is in the public domain.)
