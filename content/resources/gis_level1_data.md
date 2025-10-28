@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/gis_level1_data.zip
 file_size: 678932
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
