@@ -38,7 +38,7 @@ None; the GIS Tutorial is a noncredit workshop.![](/images/educator/icon-questio
 
 ### Offered
 
-Every year during the [Independent Activities Period (IAP)](http://catalog.mit.edu/mit/undergraduate-education/academic-research-options/independent-activities-period/)
+Every year during the {{% resource_link "4c2b2b86-af87-459a-a649-d3f951562680" "Independent Activities Period (IAP)" %}}
 
 ## How Student Time Was Spent
 
